@@ -30,3 +30,6 @@ npm run build
 - `src/App.tsx`
 - `src/main.tsx`
 - `src/index.css`
+
+- <img width="512" height="512" alt="android-chrome-512x512" src="https://github.com/user-attachments/assets/002b9ddf-6a62-4f45-bfe0-67d27876ea59" />
+

@@ -31,5 +31,9 @@ npm run build
 - `src/main.tsx`
 - `src/index.css`
 
-- <img width="512" height="512" alt="android-chrome-512x512" src="https://github.com/user-attachments/assets/002b9ddf-6a62-4f45-bfe0-67d27876ea59" />
+// logo - <img width="512" height="512" alt="android-chrome-512x512" src="https://github.com/user-attachments/assets/002b9ddf-6a62-4f45-bfe0-67d27876ea59" />
+
+main image - <img width="1691" height="930" alt="login-background" src="https://github.com/user-attachments/assets/6e87b390-8540-494a-8a4c-7377f2e09f26" />
+
+
 
